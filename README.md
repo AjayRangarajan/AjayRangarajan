@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a web developer with lot of interest in backend development. \
-🎓&nbsp;I graduated form SRM Valliammai Engineering college, Kattankulathur, Kanchipuram, Tamil Nadu (B.E, Electronics and Instrumentation Engineering, Batch 2018 - 2022).\
+🎓&nbsp;I graduated from SRM Valliammai Engineering college, Kattankulathur, Kanchipuram, Tamil Nadu (B.E, Electronics and Instrumentation Engineering, Batch 2018 - 2022).\
 🌱 &nbsp;I'm on track for learning more about building Web Applications, Backend development, and Web application security.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at ajayrangarajan127@gmail.com. I'll try to respond as soon as possible!\
