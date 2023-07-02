@@ -2,18 +2,18 @@
 
 <br>
 
-## Hi, I'm `<a href="https://github.com/AjayRangarajan" target="_blank">`Rangarajan `</a>`!
+## Hi, I'm [Rangarajan](https://github.com/AjayRangarajan "Rangarajan's profile")
 
 ![version :02.07.2023](https://img.shields.io/badge/version-02.07.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AjayRangarajan&color=red)&nbsp;
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻&nbsp;About Me
 
-💡 &nbsp; I'm a software developer with lot of interest in backend technologies.
-🌱 &nbsp;I'm on track for learning more about building Web Applications, Backend development, and Web application security.
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
-✉️ &nbsp;You can email me at ajayrangarajan127@gmail.com. I'll try to respond as soon as possible!
-📄 &nbsp;You can check my [Resume](https://drive.google.com/drive/folders/1l1mDCCkmWPUF9R_qEEgRULvb3U_cKDuy?usp=sharing) for more details about work experience.
+💡 I'm a software developer with lot of interest in backend technologies.
+🌱 I'm on track for learning more about building Web Applications, Backend development, and Web application security.
+💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
+✉️ You can email me at ajayrangarajan127@gmail.com. I'll try to respond as soon as possible!
+📄 You can check my [Resume](https://drive.google.com/drive/folders/1l1mDCCkmWPUF9R_qEEgRULvb3U_cKDuy?usp=sharing) for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,7 +32,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<div style=" font-size: medium; color: #447ff7" align=center>
+</br>
 
 # 📈 Statistics 📈
 
@@ -46,9 +46,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayRangarajan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" />
 </p>
 
-### 📫 &nbsp; How to reach me:
+</br>
 
-`<a href="https://www.linkedin.com/in/rangarajan-n-172948189/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>``</a>` &nbsp;
-`<a href="mailto:ajayrangarajan127@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />``</a>` &nbsp;
-
-</div>
+### 📫 &nbsp;How to reach me:
+<a href="https://www.linkedin.com/in/rangarajan-n-172948189/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ajayrangarajan127@gmail.com"> 
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a> 
