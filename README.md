@@ -9,11 +9,13 @@
 
 ### 👨🏻‍💻&nbsp;About Me
 
-💡 I'm a software developer with lot of interest in backend technologies.
-🌱 I'm on track for learning more about building Web Applications, Backend development, and Web application security.
-💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
-✉️ You can email me at ajayrangarajan127@gmail.com. I'll try to respond as soon as possible!
+💡 I'm a software developer with lot of interest in backend technologies. \
+🌱 I'm on track for learning more about building Web Applications, Backend development, and Web application security. \
+💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics! \
+✉️ You can email me at ajayrangarajan127@gmail.com. I'll try to respond as soon as possible! \
 📄 You can check my [Resume](https://drive.google.com/drive/folders/1l1mDCCkmWPUF9R_qEEgRULvb3U_cKDuy?usp=sharing) for more details about work experience.
+
+</br>
 
 ### 🛠 &nbsp;Tech Stack
 
